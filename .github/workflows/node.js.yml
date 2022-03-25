@@ -26,6 +26,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - run: echo "Launch npm ci"
     - run: npm ci
     - run: echo "Launch build"
     - run: npm run build --if-present
