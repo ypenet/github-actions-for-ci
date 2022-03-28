@@ -7,3 +7,4 @@ The team would like:
  - [ ] dedicated test job
  - [ ] toto
  - [ ] titi
+ - [ ] tutu
