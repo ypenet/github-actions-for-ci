@@ -6,3 +6,4 @@ The team would like:
  - [ ] save build artifacts
  - [ ] dedicated test job
  - [ ] toto
+ - [ ] titi
